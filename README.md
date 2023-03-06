@@ -24,7 +24,7 @@ Made by Ze Sheng
 
 Section | State
 :----: |:----:
-Build Basic Logic |   ✓
+Basic Logic |   ✓
 Construct Human| ✓
 Construct Computer | ✓
 All Functions Test | ✓
@@ -52,5 +52,6 @@ Upgrade AI | ✓
     ● Bob rolls 4, 6. He has to stop, and his score is still 13 (13 + 0).
     ● etc.
     ````
-    
+## Challenges
+* The logic of this game is not very hard. However, how to make computer cleverer is a big problem. Here I tried to give computer a good strategy. For example, when computer gets more than 12 score, it won't roll again since this is a fair enough score.
     
